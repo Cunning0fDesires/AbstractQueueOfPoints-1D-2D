@@ -1,3 +1,5 @@
+package yuliatestprograms;
+
 public abstract class AbstractArrayOfPoints {
 
     /* AbstractArrayOfPoints is an abstract queue type with three parent method bodies,
